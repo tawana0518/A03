@@ -41,8 +41,23 @@ https://www.jetbrains.com/student/
 38. Choose "Create New repository"
 39. You will want to make sure the repository is public and to always add the readme file. Come up with a name for your first repository and click "Create".
 40. Next, you will want to create a repository from Webstorm. 
-41. Select "VCS" at the top of your Webstorm application then click 
+41. Select "VCS" at the top of your Webstorm application then click
+42. 
 Resources: 
 https://ajahne.github.io/blog/tools/2018/06/11/how-to-upgrade-git-mac.html
 https://stackoverflow.com/questions/32661484/os-x-cant-start-git-usr-bin-git-probably-the-path-to-git-executable-is-not
 https://techterms.com/definition/repository#:~:text=In%20software%20development%2C%20a%20repository,be%20accessed%20by%20multiple%20users.
+
+Part 2: Glossary
+**Branch
+Clone
+Commit
+Fetch
+GIT
+Github
+Merge
+Merge Conflict
+Push
+Pull
+Remote
+Repository**
