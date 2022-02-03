@@ -16,7 +16,7 @@ https://www.jetbrains.com/student/
 13.  Once you click that button, at the top of the screen it will state "Download for *processing system*" for example, "Download for macOS"
 14.  There are several options for installing Git on your processing family. *Note that any non-source distributions are provided by third parties, and may not be up to date with the latest source release.
 15.  For my MacOS, I decided to use Homebrew in order to install Git. 
-16.  First, you will have to click the hyphanated link for homebrew or follow this link: https://brew.sh/
+16.  First, you will have to click the hypherlinked word for homebrew or follow this link: https://brew.sh/
 17.  From there, you will see a mug at the top of the screen showing that you are about to install Homebrew. Homebrew is used as a missing package manager for macOS or Linux.
 18.  Under "Install Homebrew" you will copy the script /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)". Then open the macOS Terminal and paste it into the Terminal. Hit return. 
 19.  The script explains what it will do then pauses before it does it. Click return.
