@@ -49,15 +49,27 @@ https://stackoverflow.com/questions/32661484/os-x-cant-start-git-usr-bin-git-pro
 https://techterms.com/definition/repository#:~:text=In%20software%20development%2C%20a%20repository,be%20accessed%20by%20multiple%20users.
 
 Part 2: Glossary
+
 **Branch**:
+
 **Clone**:
+
 **Commit**:
+
 **Fetch**:
+
 **GIT**:
+
 **Github**:
+
 **Merge**:
+
 **Merge Conflict**:
+
 **Push**:
+
 **Pull**:
+
 **Remote**:
+
 **Repository**:
