@@ -50,7 +50,7 @@ https://techterms.com/definition/repository#:~:text=In%20software%20development%
 
 Part 2: Glossary
 
-**Branch**:
+**Branch**: 
 
 **Clone**:
 
@@ -58,9 +58,9 @@ Part 2: Glossary
 
 **Fetch**:
 
-**GIT**:
+**GIT**: a DevOps tool used for source code management
 
-**Github**:
+**Github**: a code hosting platform for version control and collaboration
 
 **Merge**:
 
