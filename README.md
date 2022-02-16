@@ -2,6 +2,7 @@
 Part 1: Webstorm Tutorial
 1. You will have to download Webstorm from: 
 https://www.jetbrains.com/student/  
+*Webstorm is an integrated development environment for JavaScript and related technologies*
 2. On the Jet Brains website, you will need to create an account using your university email in order to obtain a license to use Webstorm for free. 
 3. You will recieve an email confirmation in order to confirm your account and obtain your license. 
 4. Click tools at the top of the the Jet Brains page and it should list all tools available. Click on Webstorm and it will give you the option to download. Click it
@@ -26,34 +27,36 @@ https://www.jetbrains.com/student/
 23.  To check the version of git on the terminal, enter the following command into your terminal: git --version.
 24.  It shall state the version of git installed on your Mac. 
 25. Next, you must create a Github account using the following link: https://git-scm.com/downloads
-26. The directions are pretty straight forward. So once you create your Github account, return back to Webstorm. From there, you must connect your Github with Webstorm.
-27. In Webstorm for the Mac, on the right top corner, you will click "Webstorm" a drop down menu will appear. Click preferences. 
-28. Select version control, that will drop a second drop down then click git.
-29. You must enter the path to the git executable.
-30. Usually, it automatically finds the path for you BUT, if that does not work, reopen terminal and type in the command: which git. In this case it will automatically provide you with the path. 
-31. Copy and paste the command line into the path box, then click "Test" on the right. 
-32. If everything is done correctly, it will show you your latest version of Git so you are good to go!
-33. Next you must add github password to webstorm.
-34. You do this by selecting "Appearance and Behaivor" from the large drop down menu. Then it will open a smaller drop down menu which you will then click "System Settings". Once you click that, "Passwords" should be your first option. Click it.
-35. On the page, switch the bubble from "In native Keychain" to "In keypass". There should already be a path provided for you so you do not need to worry about this. Just click ok and close.
-36. Next we must create a Repository on GitHub. Repositories are used for a central file storage location. In this case, we use repositories in GitHub in order to track changes to source code, resolve change conflicts between contributors, and more. 
-37. Once you are logged into your Github account, click on the "+" sign in the upper right corner of the screen. 
-38. Choose "Create New repository"
-39. You will want to make sure the repository is public and to always add the readme file. Come up with a name for your first repository and click "Create".
-40. Next, you will want to create a repository from Webstorm. 
-41. Select "VCS" at the top of your Webstorm application then click "Import into Version Control"
-42. From the webstorm select VCS, select checkot from version control, then Git
-43. Enter your Github repository name
-44. Enter your local path name; this may be automatically filled in.
-45. Next, we will create a webstorm file. At the top you will create file, then HTML, then HTML 5, then Stylesheet
-46. You will then add to Git dialog open, this adds to the local file system
-47. You will then click commit. 
-48. From there, you will click VCS, then Git, the Push.
-49. Your file should now appear on Github.
-50. We then have to set up Github Pages.
-51. You will click settings, then check the repository name.
-52. You will then select the "Master branch" and you should note the published URL.
-53. Copy the Github.io URL into a browser and then post the URL into Canvas.
+26. Github is a code hosting platform for version control and collaboration.
+27. The directions are pretty straight forward. So once you create your Github account, return back to Webstorm. From there, you must connect your Github with Webstorm.
+28. In Webstorm for the Mac, on the right top corner, you will click "Webstorm" a drop down menu will appear. Click preferences. 
+29. Select version control, that will drop a second drop down then click git.
+30. Git is a DevOps tool used for source code management.
+31. You must enter the path to the git executable.
+32. Usually, it automatically finds the path for you BUT, if that does not work, reopen terminal and type in the command: which git. In this case it will automatically provide you with the path. 
+33. Copy and paste the command line into the path box, then click "Test" on the right. 
+34. If everything is done correctly, it will show you your latest version of Git so you are good to go!
+35. Next you must add github password to webstorm.
+36. You do this by selecting "Appearance and Behaivor" from the large drop down menu. Then it will open a smaller drop down menu which you will then click "System Settings". Once you click that, "Passwords" should be your first option. Click it.
+37. On the page, switch the bubble from "In native Keychain" to "In keypass". There should already be a path provided for you so you do not need to worry about this. Just click ok and close.
+38. Next we must create a Repository on GitHub. Repositories are used for a central file storage location. In this case, we use repositories in GitHub in order to track changes to source code, resolve change conflicts between contributors, and more. 
+39. Once you are logged into your Github account, click on the "+" sign in the upper right corner of the screen. 
+40. Choose "Create New repository"
+41. You will want to make sure the repository is public and to always add the readme file. Come up with a name for your first repository and click "Create".
+42. Next, you will want to create a repository from Webstorm. 
+43. Select "VCS" at the top of your Webstorm application then click "Import into Version Control"
+44. From the webstorm select VCS, select checkot from version control, then Git
+45. Enter your Github repository name
+46. Enter your local path name; this may be automatically filled in.
+47. Next, we will create a webstorm file. At the top you will create file, then HTML, then HTML 5, then Stylesheet
+48. You will then add to Git dialog open, this adds to the local file system
+49. You will then click commit. 
+50. From there, you will click VCS, then Git, the Push.
+51. Your file should now appear on Github.
+52. We then have to set up Github Pages.
+53. You will click settings, then check the repository name.
+54. You will then select the "Master branch" and you should note the published URL.
+55. Copy the Github.io URL into a browser and then post the URL into Canvas.
 
 Resources: 
 https://ajahne.github.io/blog/tools/2018/06/11/how-to-upgrade-git-mac.html
