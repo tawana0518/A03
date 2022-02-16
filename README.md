@@ -41,8 +41,20 @@ https://www.jetbrains.com/student/
 38. Choose "Create New repository"
 39. You will want to make sure the repository is public and to always add the readme file. Come up with a name for your first repository and click "Create".
 40. Next, you will want to create a repository from Webstorm. 
-41. Select "VCS" at the top of your Webstorm application then click
-42. 
+41. Select "VCS" at the top of your Webstorm application then click "Import into Version Control"
+42. From the webstorm select VCS, select checkot from version control, then Git
+43. Enter your Github repository name
+44. Enter your local path name; this may be automatically filled in.
+45. Next, we will create a webstorm file. At the top you will create file, then HTML, then HTML 5, then Stylesheet
+46. You will then add to Git dialog open, this adds to the local file system
+47. You will then click commit. 
+48. From there, you will click VCS, then Git, the Push.
+49. Your file should now appear on Github.
+50. We then have to set up Github Pages.
+51. You will click settings, then check the repository name.
+52. You will then select the "Master branch" and you should note the published URL.
+53. Copy the Github.io URL into a browser and then post the URL into Canvas.
+
 Resources: 
 https://ajahne.github.io/blog/tools/2018/06/11/how-to-upgrade-git-mac.html
 https://stackoverflow.com/questions/32661484/os-x-cant-start-git-usr-bin-git-probably-the-path-to-git-executable-is-not
@@ -50,26 +62,29 @@ https://techterms.com/definition/repository#:~:text=In%20software%20development%
 
 Part 2: Glossary
 
-**Branch**: 
+**Branch**: a unique set of code changes with a unique name and an independent line of development.
 
-**Clone**:
+**Clone**: To duplicate or download a repository fro Github/Git to your local machine.
 
-**Commit**:
+**Commit**: An individual change to a file or several files. When you make a commit to save your work, Git creates a unique ID that allows you to keep record of the specific changes committed along with who made them and when.
 
-**Fetch**:
+**Fetch**: You are adding changes from the remote repository to your local working branch without committing them.
 
-**GIT**: a DevOps tool used for source code management
+**GIT**: a DevOps tool used for source code management.
 
-**Github**: a code hosting platform for version control and collaboration
+**Github**: a code hosting platform for version control and collaboration.
 
-**Merge**:
+**Merge**: It takes the changes from one branch (in the same repository), and applies them into another. This often happens as a "pull request" (which can be thought of as a request to merge), or via the command line.
 
-**Merge Conflict**:
+**Merge Conflict**: A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
 
-**Push**:
+**Push**: To send your committed changes to a remote repsotitory on GitHub. 
 
-**Pull**:
+**Pull**: Refers to when you are fetching in changes and merging them. 
 
-**Remote**:
+**Remote**: This is the version of a repository or branch that is hosted on a server - Github.
 
-**Repository**:
+**Repository**: They are easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+
+Reference:
+https://docs.github.com/en/get-started/quickstart/github-glossary
