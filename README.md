@@ -27,11 +27,11 @@ https://www.jetbrains.com/student/
 23.  To check the version of git on the terminal, enter the following command into your terminal: git --version.
 24.  It shall state the version of git installed on your Mac. 
 25. Next, you must create a Github account using the following link: https://git-scm.com/downloads
-26. Github is a code hosting platform for version control and collaboration.
+26. *Github is a code hosting platform for version control and collaboration.*
 27. The directions are pretty straight forward. So once you create your Github account, return back to Webstorm. From there, you must connect your Github with Webstorm.
 28. In Webstorm for the Mac, on the right top corner, you will click "Webstorm" a drop down menu will appear. Click preferences. 
 29. Select version control, that will drop a second drop down then click git.
-30. Git is a DevOps tool used for source code management.
+30. *Git is a DevOps tool used for source code management.*
 31. You must enter the path to the git executable.
 32. Usually, it automatically finds the path for you BUT, if that does not work, reopen terminal and type in the command: which git. In this case it will automatically provide you with the path. 
 33. Copy and paste the command line into the path box, then click "Test" on the right. 
